@@ -1,0 +1,22 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+table{
+    width:fit-content
+}
+td{
+    text-align: center;
+}
+div{
+    text-align: right;
+}
+body{
+    color: rgba(255, 255, 255, 0.993);
+    background-image: url(backgrounf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    text-align: center;
+}
